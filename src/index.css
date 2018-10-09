@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.toDoApp {
+  text-align: center;
+    width: 55%;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.toDoApp a {
+  margin: 10px;
+}
+.list-item {
+  border: 2px solid blue;
+    margin: 10px;
+}
+.toCom {
+font-weight: bold;
+}
+.toRem {
+background-color: #efefef;
+cursor: pointer
+}
+
